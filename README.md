@@ -1,1 +1,1 @@
-Começo dos estudos de React Native
+Começo dos estudos de React Native.
