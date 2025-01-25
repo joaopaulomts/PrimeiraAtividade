@@ -1,1 +1,1 @@
-Iniciando estudos de React Native da disciplina de Soluções Mobile, UNISATC.
+Início dos estudos de React Native da disciplina de Soluções Mobile, UNISATC.
